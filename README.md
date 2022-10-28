@@ -7,8 +7,8 @@ Commit: 4d833dc
 Archivo: https://github.com/G-Caro777/desarrolla_aplicaciones_web/blob/main/parcial2/PaginaWebDatos/guardardatos.php
 
 Práctica #2 - 24/10/2022 - Eliminar registro
-Commit: 
-Archivo: 
+Commit: 22566e440728b588e95d760ae1fba19fae4ca5a0
+Archivo: https://github.com/santillanlc/desarrolla_aplicaciones_web/blob/main/parcial2/PracticaWebDatos/eliminarRegistro.php
 
 Práctica #3 - 24/10/2022 - Editar registro
 Commit: 
